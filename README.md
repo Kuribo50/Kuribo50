@@ -3,7 +3,7 @@
 Soy desarrollador de software con una pasión por crear soluciones digitales innovadoras. Me especializo en el desarrollo de aplicaciones web modernas que combinan un diseño atractivo con un código limpio y eficiente. Siempre estoy aprendiendo nuevas tecnologías y buscando formas de mejorar en mi campo.
 
 <p align="left">
-<a href="https://martinberoiza.me" target="_blank"><img src="https://img.shields.io/badge/-🌍%20Portafolio%20de%20Martin%20Beroiza-4E69C8?style=flat-round&logo=&logoColor=white" alt="Portafolio de Martin Beroiza"/></a>&nbsp;
+<a href="https://martinberoiza.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-🌍%20Portafolio%20de%20Martin%20Beroiza-4E69C8?style=flat-round&logo=&logoColor=white" alt="Portafolio de Martin Beroiza"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/martinberoiza/" target="_blank"><img src="https://img.shields.io/badge/-💼%20LinkedIn%20de%20Martin-0077B5?style=flat-round&logo=linkedin&logoColor=white" alt="LinkedIn de Martin Beroiza"/></a>&nbsp;
 <a href="https://open.spotify.com/user/nwpmjw3741bwlkv1vtnn8gk5c?si=55c78a86d75d4f98" target="_blank"><img src="https://img.shields.io/badge/-%20Spotify%20de%20Martin-1DB954?style=flat-round&logo=spotify&logoColor=white" alt="Spotify de Martin"/></a>
 </p>
